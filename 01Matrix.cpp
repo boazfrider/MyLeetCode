@@ -5,6 +5,8 @@
 //A solution for Updtae Matrix
 //adding another comment to test git.
 //third comment to understand what happend after merge
+
+//this comment in the main
 >>>>>>> 9e6f60d5d65d41465dea673b352d3d91f7016e35
 class Solution {
 public:
